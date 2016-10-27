@@ -1,5 +1,7 @@
 # Philly Elixir Meetup
 
+Philadelphia-based professional networking group dedicated to programming in Erlang and Elixir.
+
 ## Connect with the group
 
 - [Meetup Group][meetup]
