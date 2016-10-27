@@ -1,6 +1,8 @@
 # Elixir jobs in Philly
 
-Developer positions in Philly companies that use Elixir
+Developer positions in Philly companies that use Elixir.
+
+To suggest a job posting, make a pull request.
 
 - PromptWorks
   - [Software Engineer](https://www.promptworks.com/jobs/software-engineer)
