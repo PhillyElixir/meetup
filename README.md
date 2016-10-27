@@ -22,9 +22,7 @@ If you have a talk you'd like to give, email mike@promptworks.com.
 
 Thank you to our sponsors!
 
-[![PromptWorks](sponsors/promptworks.png)][promptworks]
-Meeting space, pairing desks, and food
-
+[<img src=sponsors/promptworks.png width=50%>][promptworks]
 
 
 [meetup]: https://www.meetup.com/Philly-Elixir-Meetup/
